@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Pavan Rajana<br>A passionate developer from India
+Hi 👋, I'm Pavan Rajana<br>A passionate developer
 
 
 # 💻 Tech Stack:
